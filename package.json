@@ -1,0 +1,13 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "tiny-webpack": "./src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "js-beautify": "^1.11.0"
+  }
+}
